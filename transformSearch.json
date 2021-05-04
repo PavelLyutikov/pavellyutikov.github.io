@@ -1,1 +1,22 @@
-# pavellyutikov.github.io
+[
+  {
+    "attr_id":203,
+    "unit":"g",
+    "usda_nutr_desc":"Protein",
+    "usda_sr_order":600,
+    "api_name":"nf_protein",
+    "fda_daily_value":50,
+    "usda_tag":"PROCNT",
+    "name":"nf_protein"
+  },
+  {
+    "attr_id":203,
+    "unit":"g",
+    "usda_nutr_desc":"Protein",
+    "usda_sr_order":600,
+    "api_name":"nf_protein",
+    "fda_daily_value":50,
+    "usda_tag":"PROCNT",
+    "name":"nf_protein"
+  },
+]
