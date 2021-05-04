@@ -1,22 +1,18 @@
 [
   {
-    "attr_id":203,
-    "unit":"g",
-    "usda_nutr_desc":"Protein",
-    "usda_sr_order":600,
-    "api_name":"nf_protein",
-    "fda_daily_value":50,
-    "usda_tag":"PROCNT",
-    "name":"nf_protein"
+    "id":1,
+    "food_name":"Kartoshka",
+    "nf_calories":300,
+    "brand_name":"Rassvet",
+    "serving_weight_grams":200,
+    "full_nutrients":50
   },
   {
-    "attr_id":203,
-    "unit":"g",
-    "usda_nutr_desc":"Protein",
-    "usda_sr_order":600,
-    "api_name":"nf_protein",
-    "fda_daily_value":50,
-    "usda_tag":"PROCNT",
-    "name":"nf_protein"
+     "id":2,
+    "food_name":"bartoshka",
+    "nf_calories":300,
+    "brand_name":"bassvet",
+    "serving_weight_grams":200,
+    "full_nutrients":50
   },
 ]
