@@ -8,6 +8,3 @@ Contacts:
 Email: lyutikovpavel@mail.ru
 
 Telegram: @pavel_lyutikov
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelLyutikov)](https://github.com/anuraghazra/github-readme-stats)
